@@ -1,0 +1,121 @@
+html{
+    background-color: aqua;
+}
+
+h2{
+    font-size: small;
+    font-weight: bold;
+    font-family: Arial;
+     
+   }
+
+h3{
+    width: 500px;
+    font-size: small;
+    font-weight: bold;
+ }
+
+h4{
+    font-size: small;
+    font-weight: bold;
+     
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+    font-size:x-small;
+    
+}
+#player1_score , #player2_score
+{
+	display: inline-block;
+    font-size:x-small;
+    
+}
+
+
+#output
+    {
+        background-color: white; 
+        border-radius: 10px;
+        border-top: 10px solid greenyellow;
+        padding: 10px;
+        float: none;
+        text-align: left;
+        width:780px;
+
+    }
+
+
+.console1{
+    background-color:greenyellow;
+    border-style: ridge;
+    border-radius: 20px;
+    align-self: center;
+    border-width:10px;
+    border-color: black;
+    width:800px;
+    font-size:large;
+    font-weight: bold;
+
+}
+
+.console2{
+  background-color: greenyellow;
+  border-style: ridge;
+  border-radius: 15px;
+  border-width:2px;
+  border-color: black;
+  height:25px;
+  width:800px;
+  padding: 10px;
+  font-size:small;
+  font-weight: bold;
+  align-content: center
+}
+
+.Color_Back_Log{
+    background-color: greenyellow;
+    border-style: ridge;
+    border-radius: 15px;
+    align-items: center;
+    border-width:2px;
+    border-color: black;
+    width:800px;
+    font-size:small;
+    font-weight: bold;
+
+}
+#Button_Login{
+    background-color: black;
+    color: white;
+    width: 30%;
+}
+#Title{
+    align-self: center;
+    font-size:x-large;
+    font-weight: bold;
+}
+
+#Send{
+    background-color: black;
+    color: white;
+     width:30%;
+}
+#d_n2{
+   width: 800px; 
+}
+#d_n1{
+    width: 800px; 
+ }
+
+ #number_1,#number_2{
+    height:25px;
+    font-size: small;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+ }
+ 
+
